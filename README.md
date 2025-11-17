@@ -10,17 +10,27 @@ A modern, responsive website for a legal professional with over 25 years of expe
 - **Interactive Elements**: Smooth scrolling, hover effects, and form validation
 - **Professional Sections**:
   - Hero section with professional introduction
+  - Professional statistics and achievements
+  - Legal imagery showcase with professional photos
   - About section highlighting qualifications and experience
-  - Professional journey timeline (1998-Present)
-  - Services offered (Legal Advocacy, Notary Services, Prosecution)
+  - Social impact and community leadership section
+  - Services offered (Legal Advocacy, Notary Services, Government Prosecution)
   - Contact form and information
 
 ## Professional Background Highlighted
 
-- **1998**: Completed Law Degree
+- **1998**: Completed Law Degree (B.SC.B.L)
 - **Early 2000s**: Became Notary Public
 - **2005**: Appointed as Government Prosecutor
-- **Present**: Serving as Public Prosecutor
+- **2016**: Served as Rotary Club President
+- **Present**: Serving as Public Prosecutor handling Government Cases
+
+## Social Activism & Community Service
+
+- **Rotary Club Member**: Active participant in community service initiatives
+- **Rotary Club President (2016)**: Led humanitarian projects and community development
+- **Social Justice Advocate**: Promoting legal awareness and access to justice
+- **Community Leadership**: Dedicated to social welfare and civic engagement
 
 ## Files Structure
 
@@ -38,6 +48,8 @@ Website/
 - **Tailwind CSS**: Modern CSS framework (loaded via CDN)
 - **JavaScript**: Interactive functionality
 - **Font Awesome**: Professional icons
+- **Unsplash Images**: High-quality professional law-related imagery
+- **Google Fonts**: Inter font family for professional typography
 
 ## Customization
 
